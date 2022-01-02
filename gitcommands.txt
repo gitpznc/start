@@ -1,1 +1,30 @@
-git inti //creatd the git repository
+git init //creatd the git repository
+   79  echo "# start git" >> README.md
+   80  ls
+   81  git add .
+   82  git config --list
+   83  git config --global core.autocrlf false
+   84  git config --list
+   85  git config core.autocrlf=false
+   86  git config core.autocrlf false
+   87  git config --list
+   88  ls
+   89  git remote add origin https://github.com/gitpznc/start.git
+   90  git push -u origin master
+   91  git add .
+   92  git commit -m "first commit"
+   93  git config --global user.email "paul.zhang.nc@gmail.com"
+   94  git config --global user.name "gitpznc"
+   95  git commit -m "first commit"
+   96   git remote add origin https://github.com/gitpznc/start.git
+   97  git remote
+   98  git push -u origin master
+   99  history
+  100  history >> gitcommands.txt 
+
+  git add can be used for new files and modified files.
+
+  git status --short
+  git status -s
+  git diff --staged
+  git diff //only show those changes unstaged

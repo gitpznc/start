@@ -1,0 +1,118 @@
+    1  pwd
+    2  cd ng-fundamentails/
+    3  cls
+    4  ls
+    5  npm run server
+    6  npm run server
+    7  npm run server
+    8  pwd
+    9  pwd
+   10  npm start
+   11  pwd
+   12  cwd
+   13  pwd
+   14  cd ng-fundamentails/
+   15  code .
+   16  npm start
+   17  npm start
+   18  npm start
+   19  npm start
+   20  npm start
+   21  npm start
+   22  cls
+   23  clear
+   24  npm install ngf-server -S
+   25  start cmd
+   26  npm start
+   27  npm start
+   28  npm start
+   29  npm start
+   30  cls
+   31  clear
+   32  npm i eslint
+   33  npx eslint --init
+   34  npx eslint --init
+   35  npx eslint --init
+   36  npx eslint --init
+   37  npx eslint --init
+   38  clear
+   39  npx eslint --init
+   40  clear
+   41  npx eslint --init
+   42  npx eslint ./src/app
+   43  npx eslint ./src/app
+   44  npx eslint ./src/app --fix
+   45  npx eslint ./src/app --fix
+   46  npx eslint ./src/app
+   47  historoy
+   48  clear
+   49  npx ng build
+   50  npm run server
+   51  npm start
+   52  ng build --prod
+   53  npm run server
+   54  cd ~
+   55  pwd
+   56  cd git_commands/
+   57  ls
+   58  ls -la
+   59  cd .git
+   60  ls -la
+   61  more config
+   62  less config
+   63  less head
+   64  ls -la
+   65  vi config
+   66  vi description 
+   67  cls
+   68  clear
+   69  vi ~/.bashrc
+   70  pwd
+   71  touch gitcommands.txt
+   72  ls -la
+   73  rm gitcommands.txt 
+   74  cd ..
+   75  ls
+   76  touch gitcommands.txt
+   77  vi gitcommands.txt 
+   78  ls
+   79  echo "# start git" >> README.md
+   80  ls
+   81  git add .
+   82  git config --list
+   83  git config --global core.autocrlf false
+   84  git config --list
+   85  git config core.autocrlf=false
+   86  git config core.autocrlf false
+   87  git config --list
+   88  ls
+   89  git remote add origin https://github.com/gitpznc/start.git
+   90  git push -u origin master
+   91  git add .
+   92  git commit -m "first commit"
+   93  git config --global user.email "paul.zhang.nc@gmail.com"
+   94  git config --global user.name "gitpznc"
+   95  git commit -m "first commit"
+   96   git remote add origin https://github.com/gitpznc/start.git
+   97  git remote
+   98  git push -u origin master
+   99  history
+  100  history >> gitcommands.txt 
+  101  vi gitcommands.txt 
+  102  git status
+  103  git help config
+  104  man git
+  105  git config --help
+  106  git config --global
+  107  git config --global --list
+  108  clear
+  109  cls
+  110  vi ~./bashrc
+  111  ls
+  112  history
+  113  history >> commands_1202.txt
+  116  git remote
+  117  git status
+  118  clear
+  119  git branch
+  120  git config --get remote.origin.url
