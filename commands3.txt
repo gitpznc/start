@@ -1,0 +1,8 @@
+git stash
+git stash list
+git stash pop
+git stash show
+
+git reset --soft //to local branch
+git reset --mixed //to local branch and working directory
+git reset --hard //remove all
