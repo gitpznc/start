@@ -28,3 +28,4 @@ git init //creatd the git repository
   git status -s
   git diff --staged
   git diff //only show those changes unstaged
+  git push origin master

@@ -1,0 +1,46 @@
+git commit -a -m "comiit all changes"
+
+git log
+
+
+  190  git log -2
+  191  git log -3
+  192  git log -1
+  193  git log --stat
+  194  history | tail -5 >> commands2_1202.txt 
+git log --patch
+==> standard input <==
+  201  git log -1
+  202  ls
+  203  vi README.md 
+  204  git rm README.md 
+  205  git status
+  206  ls
+  207  git checkout HEAD README.md
+  208  git checkout README.md
+  209  git status
+  210  history | tail - 6 >> commands2_1202.txt 
+==> standard input <==
+  202  ls
+  203  vi README.md 
+  204  git rm README.md 
+  205  git status
+  206  ls
+  207  git checkout HEAD README.md
+  208  git checkout README.md
+  209  git status
+  210  history | tail - 6 >> commands2_1202.txt 
+  211  history | tail - 3 >> commands2_1202.txt 
+  204  git rm README.md 
+  205  git status
+  206  ls
+  207  git checkout HEAD README.md
+  208  git checkout README.md
+  209  git status
+  210  history | tail - 6 >> commands2_1202.txt 
+  211  history | tail - 3 >> commands2_1202.txt 
+  212  history | tail - 3
+  213  history | tail -10 >> commands2_1202.txt 
+  218  git rm --cached README.md 
+  219  git status
+  220  history | tail -3 >> commands2_1202.txt 
